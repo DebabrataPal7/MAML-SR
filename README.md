@@ -8,7 +8,7 @@ The deep-learning-based super-resolution (SR) methods require an avalanche of tr
 
 <img src='Imgs/Fig1_MAML-SR_Archi.jpg' width='700'>
 
-## Comparison of the generated SR images
+## Comparison of the generated SR images 
 
 <img src='Imgs/Fig2_1009_comp.jpg' width='700'>
 
