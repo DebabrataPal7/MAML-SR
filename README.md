@@ -1,6 +1,6 @@
 # MAML-SR: Self-Adaptive Super-Resolution Networks via Multi-scale Optimized Attention-aware Meta-Learning
 
-The code repository for "MAML-SR: Self-Adaptive Super-Resolution Networks via Multi-scale Optimized Attention-aware Meta-Learning" [[paper]](https://) (PRL'23) in Tensorflow. 
+The code repository for "MAML-SR: Self-Adaptive Super-Resolution Networks via Multi-scale Optimized Attention-aware Meta-Learning" [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002246) (PRL'23) in Tensorflow. 
 
 ## Abstract
  
