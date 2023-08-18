@@ -17,11 +17,6 @@ Row-1) MAML-SR without cross-scale attention and Deep-supervision, Row-2) MAML-S
 
 <img src='Imgs/Fig3_latent_space.jpg' width='700'>
 
-## Prerequisites
-
-The following packages are required to run the scripts:
-
-
 ## Datasets
 
 * [UC Merced](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
