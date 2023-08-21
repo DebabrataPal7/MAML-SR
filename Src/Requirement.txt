@@ -1,0 +1,9 @@
+Python >= 3.10
+1) Scikit-learn >= 0.20
+2) scikit-image >= 0.21.0
+3) SciPy >= 1.11.2
+4) Matplotlib >= 3.7.2 
+5) imageio >= 2.31.1
+6) TensorFlow >= 2.13
+7) PYTORCH >= 2.0
+8) numpy >= 1.25.2
